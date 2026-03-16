@@ -17,7 +17,7 @@ LIBS   = $(SDL_LIBS) -lm
 
 all: $(TARGET)
 
-$(TARGET): main_collisions_v5.c
+$(TARGET): main_collisions.c
 	$(CC) $(CFLAGS) -o $@ $< $(LIBS)
 	@echo "Built: ./$(TARGET)"
 
