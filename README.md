@@ -1,4 +1,5 @@
-# Parabolic Vessel — Hard Sphere Gas Simulation
+# Archived -- superseded by a 2 gas multi-core version
+## Parabolic Vessel — Hard Sphere Gas Simulation
 
 A real-time 2D molecular dynamics simulation of hard-sphere particles in a
 configurable vessel, written in C with SDL2. Demonstrates thermalisation,
